@@ -1,7 +1,7 @@
 # arduino_screenbar
 Code for DIY monitor lighting.
 
-Mapping:
+Mapping:\
 [05] [06] [07]\
 [10] [09] [08]
 
