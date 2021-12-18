@@ -2,7 +2,7 @@
 Code for DIY monitor lighting.
 
 Mapping:
-[05] [06] [07]
+[05] [06] [07]\
 [10] [09] [08]
 
 Functions:
