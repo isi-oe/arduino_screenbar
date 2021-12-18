@@ -13,5 +13,5 @@ Functions:
 + `09`: Reset temperature
 + `08`: Temperature up
 
-Schematic:
+Schematic:\
 ![Schematic](schematic.png "Schematic")
