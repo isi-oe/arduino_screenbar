@@ -1,5 +1,5 @@
 # arduino_screenbar
-Code for DIY monitor lighting.
+Basically the code for WS2812b LEDs controlled with mechanical switches.
 
 Mapping:\
 `05` `06` `07`\
